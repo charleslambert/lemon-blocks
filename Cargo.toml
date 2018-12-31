@@ -1,0 +1,7 @@
+[package]
+name = "battery"
+version = "0.1.0"
+authors = ["phil0s0pher <c.lambert1213@gmail.com>"]
+
+[dependencies]
+notify-rust = "3"
